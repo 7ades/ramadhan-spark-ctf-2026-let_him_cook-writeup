@@ -37,7 +37,7 @@ Goodbye
 kali
 zsh: segmentation fault  ./main
 ```
-So as we can see it takes my input and it print goodbye , and the username of the user , that means it's using 
+So as we can see it takes my input and it print goodbye and my username , that means it's using 
 ```c
 sytem("whoami")
 ```
